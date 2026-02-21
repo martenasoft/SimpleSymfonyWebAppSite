@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ce0ba897a7c3dd306ad2aa9766d371f9",
+    "content-hash": "649141940b1e6e7b9ce9964f6cbc198d",
     "packages": [
         {
             "name": "composer/semver",
@@ -1491,20 +1491,21 @@
         },
         {
             "name": "martenasoft/admin_bundle",
-            "version": "v1.2.1",
+            "version": "v2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/martenasoft/AdminBundle.git",
-                "reference": "4c704c0dfcf4f513712976a39a1972fffd820a82"
+                "reference": "39c43594542c3edaec37d7bc93465618c5cc3266"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/martenasoft/AdminBundle/zipball/4c704c0dfcf4f513712976a39a1972fffd820a82",
-                "reference": "4c704c0dfcf4f513712976a39a1972fffd820a82",
+                "url": "https://api.github.com/repos/martenasoft/AdminBundle/zipball/39c43594542c3edaec37d7bc93465618c5cc3266",
+                "reference": "39c43594542c3edaec37d7bc93465618c5cc3266",
                 "shasum": ""
             },
             "require": {
                 "martenasoft/common_library": "^1.1",
+                "martenasoft/sdk_bundle": "^2.0",
                 "php": "^8.3",
                 "symfony/config": "^8.0",
                 "symfony/dependency-injection": "^8.0",
@@ -1533,9 +1534,9 @@
             "description": "MartenaSoft AdminBundle",
             "support": {
                 "issues": "https://github.com/martenasoft/AdminBundle/issues",
-                "source": "https://github.com/martenasoft/AdminBundle/tree/v1.2.1"
+                "source": "https://github.com/martenasoft/AdminBundle/tree/v2.1.0"
             },
-            "time": "2026-02-21T19:09:02+00:00"
+            "time": "2026-02-21T22:09:15+00:00"
         },
         {
             "name": "martenasoft/common_library",
@@ -1576,16 +1577,16 @@
         },
         {
             "name": "martenasoft/image_bundle",
-            "version": "v1.1.2",
+            "version": "v1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/martenasoft/ImageBundle.git",
-                "reference": "bf5763aad6ef8a23e84c6836f0c5318fc367c0b6"
+                "reference": "5354440776ff05d83bb04af49408aebc34aa4a8b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/martenasoft/ImageBundle/zipball/bf5763aad6ef8a23e84c6836f0c5318fc367c0b6",
-                "reference": "bf5763aad6ef8a23e84c6836f0c5318fc367c0b6",
+                "url": "https://api.github.com/repos/martenasoft/ImageBundle/zipball/5354440776ff05d83bb04af49408aebc34aa4a8b",
+                "reference": "5354440776ff05d83bb04af49408aebc34aa4a8b",
                 "shasum": ""
             },
             "require": {
@@ -1595,7 +1596,7 @@
                 "imagine/imagine": "^1.5",
                 "knplabs/knp-paginator-bundle": "^6.0",
                 "martenasoft/common_library": "^1.1",
-                "martenasoft/sdk_bundle": "^1.0",
+                "martenasoft/sdk_bundle": "^2.0",
                 "php": "^8.3",
                 "psr/log": "^3.0",
                 "symfony/config": "^8.0",
@@ -1632,9 +1633,9 @@
             "description": "MartenaSoft ImageBundle",
             "support": {
                 "issues": "https://github.com/martenasoft/ImageBundle/issues",
-                "source": "https://github.com/martenasoft/ImageBundle/tree/v1.1.2"
+                "source": "https://github.com/martenasoft/ImageBundle/tree/v1.2.0"
             },
-            "time": "2026-02-21T18:33:12+00:00"
+            "time": "2026-02-21T22:25:20+00:00"
         },
         {
             "name": "martenasoft/menu_bundle",
@@ -1689,16 +1690,16 @@
         },
         {
             "name": "martenasoft/page_bundle",
-            "version": "v1.1.2",
+            "version": "v2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/martenasoft/PageBundle.git",
-                "reference": "1d6e8592daea093da0f600f2720afb0b5561566c"
+                "reference": "62480e35e27b491d5afdf65fa393b5e59d585b51"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/martenasoft/PageBundle/zipball/1d6e8592daea093da0f600f2720afb0b5561566c",
-                "reference": "1d6e8592daea093da0f600f2720afb0b5561566c",
+                "url": "https://api.github.com/repos/martenasoft/PageBundle/zipball/62480e35e27b491d5afdf65fa393b5e59d585b51",
+                "reference": "62480e35e27b491d5afdf65fa393b5e59d585b51",
                 "shasum": ""
             },
             "require": {
@@ -1708,6 +1709,7 @@
                 "doctrine/persistence": "^4.0",
                 "knplabs/knp-paginator-bundle": "^6.0",
                 "martenasoft/common_library": "^1.1",
+                "martenasoft/sdk_bundle": "^2.0",
                 "psr/log": "^3.0",
                 "symfony/config": "^8.0",
                 "symfony/dependency-injection": "^8.0",
@@ -1744,22 +1746,22 @@
             "description": "MartenaSoft PageBundle",
             "support": {
                 "issues": "https://github.com/martenasoft/PageBundle/issues",
-                "source": "https://github.com/martenasoft/PageBundle/tree/v1.1.2"
+                "source": "https://github.com/martenasoft/PageBundle/tree/v2.1.0"
             },
-            "time": "2026-02-21T17:57:28+00:00"
+            "time": "2026-02-21T22:14:59+00:00"
         },
         {
             "name": "martenasoft/sdk_bundle",
-            "version": "v1.0.1",
+            "version": "v2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/martenasoft/SdkBundle.git",
-                "reference": "8857e8659e5d632d95132348818ee5cdab38172f"
+                "reference": "b827e5046d5f7b4a98c5367dc4c0e42676c3a5b4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/martenasoft/SdkBundle/zipball/8857e8659e5d632d95132348818ee5cdab38172f",
-                "reference": "8857e8659e5d632d95132348818ee5cdab38172f",
+                "url": "https://api.github.com/repos/martenasoft/SdkBundle/zipball/b827e5046d5f7b4a98c5367dc4c0e42676c3a5b4",
+                "reference": "b827e5046d5f7b4a98c5367dc4c0e42676c3a5b4",
                 "shasum": ""
             },
             "require": {
@@ -1787,9 +1789,9 @@
             "description": "MartenaSoft Sdk Bundle",
             "support": {
                 "issues": "https://github.com/martenasoft/SdkBundle/issues",
-                "source": "https://github.com/martenasoft/SdkBundle/tree/v1.0.1"
+                "source": "https://github.com/martenasoft/SdkBundle/tree/v2.0.0"
             },
-            "time": "2026-02-21T13:40:03+00:00"
+            "time": "2026-02-21T21:48:53+00:00"
         },
         {
             "name": "martenasoft/site_bundle",
@@ -1842,16 +1844,16 @@
         },
         {
             "name": "martenasoft/user_bundle",
-            "version": "v2.2.2",
+            "version": "v3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/martenasoft/UserBundle.git",
-                "reference": "5b0c14cc98549ca46adcee01cace8f106c16568e"
+                "reference": "9e6e7a6e29b6ec495f54dec56913ed900b503fb9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/martenasoft/UserBundle/zipball/5b0c14cc98549ca46adcee01cace8f106c16568e",
-                "reference": "5b0c14cc98549ca46adcee01cace8f106c16568e",
+                "url": "https://api.github.com/repos/martenasoft/UserBundle/zipball/9e6e7a6e29b6ec495f54dec56913ed900b503fb9",
+                "reference": "9e6e7a6e29b6ec495f54dec56913ed900b503fb9",
                 "shasum": ""
             },
             "require": {
@@ -1860,7 +1862,7 @@
                 "doctrine/orm": "^3.2",
                 "knplabs/knp-paginator-bundle": "^6.0",
                 "martenasoft/common_library": "^1.1",
-                "martenasoft/sdk_bundle": "^1.0",
+                "martenasoft/sdk_bundle": "^2.0",
                 "symfony/console": "^8.0",
                 "symfony/doctrine-bridge": "^8.0",
                 "symfony/form": "^8.0",
@@ -1897,9 +1899,9 @@
             "description": "MartenaSoft UserBundle",
             "support": {
                 "issues": "https://github.com/martenasoft/UserBundle/issues",
-                "source": "https://github.com/martenasoft/UserBundle/tree/v2.2.2"
+                "source": "https://github.com/martenasoft/UserBundle/tree/v3.0.0"
             },
-            "time": "2026-02-21T18:18:28+00:00"
+            "time": "2026-02-21T22:04:54+00:00"
         },
         {
             "name": "monolog/monolog",

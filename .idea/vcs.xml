@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../BundlesSimpleSymfonyWebAppSite/MartenaSoft/AdminBundle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../BundlesSimpleSymfonyWebAppSite/MartenaSoft/PageBundle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../BundlesSimpleSymfonyWebAppSite/MartenaSoft/SdkBundle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../BundlesSimpleSymfonyWebAppSite/MartenaSoft/UserBundle" vcs="Git" />
   </component>
 </project>

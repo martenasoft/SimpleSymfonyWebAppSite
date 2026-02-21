@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BundlesSimpleSymfonyWebAppSite/MartenaSoft/AdminBundle/.idea/AdminBundle.iml" filepath="$PROJECT_DIR$/../BundlesSimpleSymfonyWebAppSite/MartenaSoft/AdminBundle/.idea/AdminBundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BundlesSimpleSymfonyWebAppSite/MartenaSoft/PageBundle/.idea/PageBundle.iml" filepath="$PROJECT_DIR$/../BundlesSimpleSymfonyWebAppSite/MartenaSoft/PageBundle/.idea/PageBundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BundlesSimpleSymfonyWebAppSite/MartenaSoft/SdkBundle/.idea/SdkBundle.iml" filepath="$PROJECT_DIR$/../BundlesSimpleSymfonyWebAppSite/MartenaSoft/SdkBundle/.idea/SdkBundle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SimpleSymfonyWebAppSite.iml" filepath="$PROJECT_DIR$/.idea/SimpleSymfonyWebAppSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BundlesSimpleSymfonyWebAppSite/MartenaSoft/UserBundle/.idea/UserBundle.iml" filepath="$PROJECT_DIR$/../BundlesSimpleSymfonyWebAppSite/MartenaSoft/UserBundle/.idea/UserBundle.iml" />
     </modules>
   </component>
 </project>

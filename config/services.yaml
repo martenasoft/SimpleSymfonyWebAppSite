@@ -19,5 +19,10 @@ services:
     App\:
         resource: '../src/'
 
-    # add more service definitions when explicit configuration is needed
-    # please note that last definitions always *replace* previous ones
+    MartenaSoft\SdkBundle\Service\Interfaces\PageSdkInterface: '@MartenaSoft\PageBundle\Service\PageSdk'
+
+    MartenaSoft\SdkBundle\Service\Interfaces\UserSdkInterface: '@MartenaSoft\UserBundle\Service\UserSdk'
+
+    MartenaSoft\SdkBundle\Service\Interfaces\RoleSdkInterface: '@MartenaSoft\UserBundle\Service\RoleSdk'
+
+    MartenaSoft\SdkBundle\Service\Interfaces\PermissionSdkInterface: '@MartenaSoft\UserBundle\Service\PermissionSdk'
