@@ -137,6 +137,18 @@
       <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
       <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
       <path value="$PROJECT_DIR$/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/martenasoft/admin_bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfonycasts/verify-email-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfonycasts/reset-password-bundle" />
+      <path value="$PROJECT_DIR$/vendor/martenasoft/user_bundle" />
+      <path value="$PROJECT_DIR$/vendor/martenasoft/common_library" />
+      <path value="$PROJECT_DIR$/vendor/martenasoft/sdk_bundle" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-components" />
+      <path value="$PROJECT_DIR$/vendor/martenasoft/page_bundle" />
+      <path value="$PROJECT_DIR$/vendor/martenasoft/menu_bundle" />
+      <path value="$PROJECT_DIR$/vendor/martenasoft/image_bundle" />
+      <path value="$PROJECT_DIR$/vendor/imagine/imagine" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.5">
