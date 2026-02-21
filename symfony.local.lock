@@ -39,16 +39,16 @@
         "version": "v6.10.0"
     },
     "martenasoft/admin_bundle": {
-        "version": "v1.0.0"
+        "version": "v1.1.0"
     },
     "martenasoft/image_bundle": {
-        "version": "v1.0.1"
+        "version": "v1.1.0"
     },
     "martenasoft/menu_bundle": {
         "version": "v1.0.0"
     },
     "martenasoft/page_bundle": {
-        "version": "v1.0.0"
+        "version": "v1.1.0"
     },
     "martenasoft/sdk_bundle": {
         "version": "v1.0.1"
@@ -57,7 +57,7 @@
         "version": "v1.2.0"
     },
     "martenasoft/user_bundle": {
-        "version": "v1.2.2"
+        "version": "v2.1"
     },
     "phpunit/phpunit": {
         "version": "13.0",
@@ -338,18 +338,6 @@
         "files": [
             "config/packages/web_profiler.yaml",
             "config/routes/web_profiler.yaml"
-        ]
-    },
-    "symfony/webapp-pack": {
-        "version": "1.4",
-        "recipe": {
-            "repo": "github.com/symfony/recipes",
-            "branch": "main",
-            "version": "1.0",
-            "ref": "b9e6cc8e7b6069d0e8a816665809a423864eb4dd"
-        },
-        "files": [
-            "config/packages/messenger.yaml"
         ]
     },
     "symfony/webpack-encore-bundle": {

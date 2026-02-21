@@ -1,0 +1,8 @@
+user:
+    - site:
+        id: 99999
+        redirect_to_after_login:
+           default_route: 'app_page_main'
+        rules:
+            - roles: [ 'ROLE_SUPER_ADMIN', 'ROLE_ADMIN' ]
+              route: 'admin_main'
