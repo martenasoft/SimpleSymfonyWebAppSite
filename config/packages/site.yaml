@@ -1,0 +1,13 @@
+site:
+  sites:
+    default:
+      id: 99999,
+      name: 'Default site'
+      host: '127.0.0.1'
+      preview_on_main_limit: 10
+      status: 'active'
+      languages: ['en', 'ua']
+      default_language: 'en'
+      active_by_ips: ['11.22.33.44', '22.333.44.55', '127.0.0.1']
+      template_path: 'default'
+

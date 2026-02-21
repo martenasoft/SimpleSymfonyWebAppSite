@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7c029d42c4cb9a249799c04402f47fac",
+    "content-hash": "ce0ba897a7c3dd306ad2aa9766d371f9",
     "packages": [
         {
             "name": "composer/semver",
@@ -1491,16 +1491,16 @@
         },
         {
             "name": "martenasoft/admin_bundle",
-            "version": "v1.1.0",
+            "version": "v1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/martenasoft/AdminBundle.git",
-                "reference": "2b03a648fc9fc9f3e3a660c70e9ccf42f835b80b"
+                "reference": "4c704c0dfcf4f513712976a39a1972fffd820a82"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/martenasoft/AdminBundle/zipball/2b03a648fc9fc9f3e3a660c70e9ccf42f835b80b",
-                "reference": "2b03a648fc9fc9f3e3a660c70e9ccf42f835b80b",
+                "url": "https://api.github.com/repos/martenasoft/AdminBundle/zipball/4c704c0dfcf4f513712976a39a1972fffd820a82",
+                "reference": "4c704c0dfcf4f513712976a39a1972fffd820a82",
                 "shasum": ""
             },
             "require": {
@@ -1533,22 +1533,22 @@
             "description": "MartenaSoft AdminBundle",
             "support": {
                 "issues": "https://github.com/martenasoft/AdminBundle/issues",
-                "source": "https://github.com/martenasoft/AdminBundle/tree/v1.1.0"
+                "source": "https://github.com/martenasoft/AdminBundle/tree/v1.2.1"
             },
-            "time": "2026-02-21T14:48:01+00:00"
+            "time": "2026-02-21T19:09:02+00:00"
         },
         {
             "name": "martenasoft/common_library",
-            "version": "v1.1.2",
+            "version": "v1.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/martenasoft/CommonLibrary.git",
-                "reference": "e52906ceeaf44bc85d7db1455c7ba3a16223cfff"
+                "reference": "6c5b01a18455a1332c2a0ede3ac747e44a2e6977"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/martenasoft/CommonLibrary/zipball/e52906ceeaf44bc85d7db1455c7ba3a16223cfff",
-                "reference": "e52906ceeaf44bc85d7db1455c7ba3a16223cfff",
+                "url": "https://api.github.com/repos/martenasoft/CommonLibrary/zipball/6c5b01a18455a1332c2a0ede3ac747e44a2e6977",
+                "reference": "6c5b01a18455a1332c2a0ede3ac747e44a2e6977",
                 "shasum": ""
             },
             "type": "library",
@@ -1570,22 +1570,22 @@
             "description": "MartenaSoft Common library",
             "support": {
                 "issues": "https://github.com/martenasoft/CommonLibrary/issues",
-                "source": "https://github.com/martenasoft/CommonLibrary/tree/v1.1.2"
+                "source": "https://github.com/martenasoft/CommonLibrary/tree/v1.1.4"
             },
-            "time": "2026-02-21T13:09:08+00:00"
+            "time": "2026-02-21T18:11:59+00:00"
         },
         {
             "name": "martenasoft/image_bundle",
-            "version": "v1.1.0",
+            "version": "v1.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/martenasoft/ImageBundle.git",
-                "reference": "a7640bb30257ce865b7f607b3a1cc0be53219729"
+                "reference": "bf5763aad6ef8a23e84c6836f0c5318fc367c0b6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/martenasoft/ImageBundle/zipball/a7640bb30257ce865b7f607b3a1cc0be53219729",
-                "reference": "a7640bb30257ce865b7f607b3a1cc0be53219729",
+                "url": "https://api.github.com/repos/martenasoft/ImageBundle/zipball/bf5763aad6ef8a23e84c6836f0c5318fc367c0b6",
+                "reference": "bf5763aad6ef8a23e84c6836f0c5318fc367c0b6",
                 "shasum": ""
             },
             "require": {
@@ -1632,9 +1632,9 @@
             "description": "MartenaSoft ImageBundle",
             "support": {
                 "issues": "https://github.com/martenasoft/ImageBundle/issues",
-                "source": "https://github.com/martenasoft/ImageBundle/tree/v1.1.0"
+                "source": "https://github.com/martenasoft/ImageBundle/tree/v1.1.2"
             },
-            "time": "2026-02-21T14:53:51+00:00"
+            "time": "2026-02-21T18:33:12+00:00"
         },
         {
             "name": "martenasoft/menu_bundle",
@@ -1689,16 +1689,16 @@
         },
         {
             "name": "martenasoft/page_bundle",
-            "version": "v1.1.0",
+            "version": "v1.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/martenasoft/PageBundle.git",
-                "reference": "9aa49e2a753a767a85cd8fc883e7215e7591dca6"
+                "reference": "1d6e8592daea093da0f600f2720afb0b5561566c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/martenasoft/PageBundle/zipball/9aa49e2a753a767a85cd8fc883e7215e7591dca6",
-                "reference": "9aa49e2a753a767a85cd8fc883e7215e7591dca6",
+                "url": "https://api.github.com/repos/martenasoft/PageBundle/zipball/1d6e8592daea093da0f600f2720afb0b5561566c",
+                "reference": "1d6e8592daea093da0f600f2720afb0b5561566c",
                 "shasum": ""
             },
             "require": {
@@ -1744,9 +1744,9 @@
             "description": "MartenaSoft PageBundle",
             "support": {
                 "issues": "https://github.com/martenasoft/PageBundle/issues",
-                "source": "https://github.com/martenasoft/PageBundle/tree/v1.1.0"
+                "source": "https://github.com/martenasoft/PageBundle/tree/v1.1.2"
             },
-            "time": "2026-02-21T14:59:20+00:00"
+            "time": "2026-02-21T17:57:28+00:00"
         },
         {
             "name": "martenasoft/sdk_bundle",
@@ -1792,17 +1792,66 @@
             "time": "2026-02-21T13:40:03+00:00"
         },
         {
-            "name": "martenasoft/user_bundle",
-            "version": "v2.1",
+            "name": "martenasoft/site_bundle",
+            "version": "v1.2.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/martenasoft/UserBundle.git",
-                "reference": "a29a7322a4dabe1260884aebd7efc539f79d5eb8"
+                "url": "https://github.com/martenasoft/SiteBundle.git",
+                "reference": "73858d5ea2af67444b36ded459b342f3326afe84"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/martenasoft/UserBundle/zipball/a29a7322a4dabe1260884aebd7efc539f79d5eb8",
-                "reference": "a29a7322a4dabe1260884aebd7efc539f79d5eb8",
+                "url": "https://api.github.com/repos/martenasoft/SiteBundle/zipball/73858d5ea2af67444b36ded459b342f3326afe84",
+                "reference": "73858d5ea2af67444b36ded459b342f3326afe84",
+                "shasum": ""
+            },
+            "require": {
+                "doctrine/doctrine-bundle": "^3.2",
+                "doctrine/orm": "^3.6",
+                "martenasoft/common_library": "^1.0",
+                "symfony/config": "^8.0",
+                "symfony/dependency-injection": "^8.0",
+                "symfony/http-kernel": "^8.0",
+                "symfony/object-mapper": "^8.0",
+                "symfony/twig-bundle": "^8.0",
+                "symfony/yaml": "^8.0",
+                "twig/twig": "^3.23"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "MartenaSoft\\SiteBundle\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "MartenaSoft",
+                    "email": "martena.soft@gmail.com"
+                }
+            ],
+            "description": "MartenaSoft SiteBundle",
+            "support": {
+                "issues": "https://github.com/martenasoft/SiteBundle/issues",
+                "source": "https://github.com/martenasoft/SiteBundle/tree/v1.2.2"
+            },
+            "time": "2026-02-21T18:48:45+00:00"
+        },
+        {
+            "name": "martenasoft/user_bundle",
+            "version": "v2.2.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/martenasoft/UserBundle.git",
+                "reference": "5b0c14cc98549ca46adcee01cace8f106c16568e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/martenasoft/UserBundle/zipball/5b0c14cc98549ca46adcee01cace8f106c16568e",
+                "reference": "5b0c14cc98549ca46adcee01cace8f106c16568e",
                 "shasum": ""
             },
             "require": {
@@ -1848,9 +1897,9 @@
             "description": "MartenaSoft UserBundle",
             "support": {
                 "issues": "https://github.com/martenasoft/UserBundle/issues",
-                "source": "https://github.com/martenasoft/UserBundle/tree/v2.1"
+                "source": "https://github.com/martenasoft/UserBundle/tree/v2.2.2"
             },
-            "time": "2026-02-21T15:08:56+00:00"
+            "time": "2026-02-21T18:18:28+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -5152,6 +5201,79 @@
             "time": "2026-01-08T22:36:47+00:00"
         },
         {
+            "name": "symfony/object-mapper",
+            "version": "v8.0.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/object-mapper.git",
+                "reference": "d8388ce275fa61a7a0cba0e88301f5b91686e640"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/object-mapper/zipball/d8388ce275fa61a7a0cba0e88301f5b91686e640",
+                "reference": "d8388ce275fa61a7a0cba0e88301f5b91686e640",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.4",
+                "psr/container": "^2.0"
+            },
+            "conflict": {
+                "symfony/property-access": "<7.2"
+            },
+            "require-dev": {
+                "symfony/property-access": "^7.4|^8.0",
+                "symfony/var-exporter": "^7.4|^8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\ObjectMapper\\": ""
+                },
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Provides a way to map an object to another object",
+            "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/object-mapper/tree/v8.0.5"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://github.com/nicolas-grekas",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2026-01-26T16:01:04+00:00"
+        },
+        {
             "name": "symfony/options-resolver",
             "version": "v8.0.0",
             "source": {
@@ -8005,6 +8127,82 @@
                 }
             ],
             "time": "2026-01-01T23:07:29+00:00"
+        },
+        {
+            "name": "symfony/webpack-encore-bundle",
+            "version": "v2.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/webpack-encore-bundle.git",
+                "reference": "5b932e0feddd81aaf0ecd7d5fcd2e450e5a7817e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/webpack-encore-bundle/zipball/5b932e0feddd81aaf0ecd7d5fcd2e450e5a7817e",
+                "reference": "5b932e0feddd81aaf0ecd7d5fcd2e450e5a7817e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.1.0",
+                "symfony/asset": "^5.4 || ^6.2 || ^7.0 || ^8.0",
+                "symfony/config": "^5.4 || ^6.2 || ^7.0 || ^8.0",
+                "symfony/dependency-injection": "^5.4 || ^6.2 || ^7.0 || ^8.0",
+                "symfony/http-kernel": "^5.4 || ^6.2 || ^7.0 || ^8.0",
+                "symfony/service-contracts": "^1.1.9 || ^2.1.3 || ^3.0"
+            },
+            "require-dev": {
+                "symfony/framework-bundle": "^5.4 || ^6.2 || ^7.0 || ^8.0",
+                "symfony/http-client": "^5.4 || ^6.2 || ^7.0 || ^8.0",
+                "symfony/phpunit-bridge": "^5.4 || ^6.2 || ^7.0 || ^8.0",
+                "symfony/twig-bundle": "^5.4 || ^6.2 || ^7.0 || ^8.0",
+                "symfony/web-link": "^5.4 || ^6.2 || ^7.0 || ^8.0"
+            },
+            "type": "symfony-bundle",
+            "extra": {
+                "thanks": {
+                    "url": "https://github.com/symfony/webpack-encore",
+                    "name": "symfony/webpack-encore"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\WebpackEncoreBundle\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Integration of your Symfony app with Webpack Encore",
+            "support": {
+                "issues": "https://github.com/symfony/webpack-encore-bundle/issues",
+                "source": "https://github.com/symfony/webpack-encore-bundle/tree/v2.4.0"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://github.com/nicolas-grekas",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2025-11-27T13:41:46+00:00"
         },
         {
             "name": "symfony/yaml",

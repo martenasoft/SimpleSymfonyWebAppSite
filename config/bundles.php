@@ -22,4 +22,6 @@ return [
     MartenaSoft\PageBundle\PageBundle::class => ['all' => true],
     MartenaSoft\MenuBundle\MenuBundle::class => ['all' => true],
     MartenaSoft\ImageBundle\ImageBundle::class => ['all' => true],
+    MartenaSoft\SiteBundle\SiteBundle::class => ['all' => true],
+    Symfony\WebpackEncoreBundle\WebpackEncoreBundle::class => ['all' => true],
 ];

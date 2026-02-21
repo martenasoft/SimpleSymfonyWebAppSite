@@ -1,0 +1,71 @@
+image:
+    - site:
+          id: 99999
+
+          types:
+
+            page:
+              max_size: '10240k'
+              mime_types:
+                  - 'image/gif'
+                  - 'image/jpeg'
+                  - 'image/jpg'
+                  - 'image/png'
+              sizes:
+                  big:
+                      width: 800
+                      height: 800
+                      path: '%kernel.project_dir%/public/images/site/1/page/big'
+                      web_path: '/images/site/1/page/big'
+                      not_found_web_path: '/site/images/404-page-not-found-800x800.jpg'
+                      watermark_path:
+                          width: 200
+                          height: 200
+                          path: '%kernel.project_dir%/public/images/watermarks/big.png'
+
+                  middle:
+                      width: 400
+                      height: 400
+                      path: '%kernel.project_dir%/public/images/site/1/page/middle'
+                      web_path: '/images/site/1/page/middle'
+                      not_found_web_path: '/site/images/404-page-not-found-400x400.jpg'
+
+                  small:
+                      width: 200
+                      height: 200
+                      path: '%kernel.project_dir%/public/images/site/1/page/small'
+                      web_path: '/images/site/1/page/small'
+                      not_found_web_path: '/site/images/404-page-not-found-200x200.jpg'
+
+                  origin:
+                      width: 0
+                      height: 0
+                      path: '%kernel.project_dir%/public/images/site/1/page/origin'
+                      web_path: '/images/site/1/page/origin'
+                      not_found_web_path: '/site/images/404-page-not-found-800x800.jpg'
+
+            user:
+              max_size: '10240k'
+              mime_types:
+                  - 'image/gif'
+                  - 'image/jpeg'
+                  - 'image/jpg'
+                  - 'image/png'
+              sizes:
+                  big:
+                      width: 800
+                      height: 800
+                      path: '%kernel.project_dir%/public/images/site/1/user/big'
+                      web_path: '/images/site/1/user/big'
+                      not_found_web_path: '/site/images/404-page-not-found-800x800.jpg'
+                      watermark_path:
+                          width: 200
+                          height: 200
+                          path: '%kernel.project_dir%/public/images/watermarks/big.png'
+
+                  small:
+                      width: 200
+                      height: 200
+                      path: '%kernel.project_dir%/public/images/site/1/user/small'
+                      web_path: '/images/site/1/user/small'
+                      not_found_web_path: '/site/images/404-page-not-found-200x200.jpg'
