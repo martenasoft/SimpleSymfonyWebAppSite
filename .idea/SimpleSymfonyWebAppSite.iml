@@ -158,5 +158,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="PageBundle" />
+    <orderEntry type="module" module-name="SdkBundle" />
+    <orderEntry type="module" module-name="AdminBundle" />
+    <orderEntry type="module" module-name="UserBundle" />
   </component>
 </module>
